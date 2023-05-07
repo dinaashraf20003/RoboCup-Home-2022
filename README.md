@@ -1,10 +1,8 @@
-# RoboCup@Home_Education_2022
-RoboCup@Home Educational Workshop and Challenge Bangkok, Thailand 2022  
-
+# RoboCup@Home Educational Workshop and Challenge Bangkok, Thailand 2022
 ### About Robocup@Home
-The RoboCup@Home league seeks to advance service and assistive robot technology for future personal domestic applications.
+- The RoboCup@Home league seeks to advance service and assistive robot technology for future personal domestic applications.
 Using Artificial Intelligence in learning and development service robot application to solve hands-on, real world problems.
-
+- Check the challenge [Rules 2022 _ RoboCup@Home Education](https://github.com/dinaashraf20003/RC_at_Home_Edu_2022/files/11415424/Rules.2022._.RoboCup%40Home.Education.pdf)
 # AAST-RIC Team Overview
 AAST-RIC is the first team to participate in the RoboCup@Home Education category in the 
 Middle East. The team is comprised of 3 members, each member has participated previously in 
@@ -28,7 +26,7 @@ RoboCupJunior and other robotics competitions multiple times and have won severa
 - The RoboCup@Home Education challenge consists of three tasks- Carry My Luggage, Find My 
 Mates and Receptionist. The team has broken down the Carry My Luggage task into several 
 challenges, which are later integrated together to carry out the task. <br />
-- Check the challenge [Rules 2022 _ RoboCup@Home Education](https://github.com/dinaashraf20003/RC_at_Home_Edu_2022/files/11415424/Rules.2022._.RoboCup%40Home.Education.pdf)
+![WhatsApp Image 2023-05-07 at 18 19 42](https://user-images.githubusercontent.com/73821958/236691981-9883652f-e474-456b-bfe1-78f7605b85f2.jpeg)
 
 ### Development Environment:
 - Ubuntu 18.04
