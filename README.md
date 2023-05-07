@@ -28,7 +28,7 @@ RoboCupJunior and other robotics competitions multiple times and have won severa
 - The RoboCup@Home Education challenge consists of three tasks- Carry My Luggage, Find My 
 Mates and Receptionist. The team has broken down the Carry My Luggage task into several 
 challenges, which are later integrated together to carry out the task. <br />
-- You can find the challenge rules in the attached document: [Rules 2022 _ RoboCup@Home Education.pdf](https://github.com/dinaashraf20003/RC_at_Home_Edu_2022/files/11415424/Rules.2022._.RoboCup%40Home.Education.pdf)
+- Check the challenge [Rules 2022 _ RoboCup@Home Education](https://github.com/dinaashraf20003/RC_at_Home_Edu_2022/files/11415424/Rules.2022._.RoboCup%40Home.Education.pdf)
 
 ### Development Environment:
 - Ubuntu 18.04
