@@ -66,9 +66,13 @@ https://user-images.githubusercontent.com/73821958/236690987-12c722c0-ddeb-4494-
 Watch full video at: https://youtu.be/Gth8iXjAkwc
 
 # Resources 
+- RoboCup@Home Education Website:
+https://www.robocupathomeedu.org/
 - RoboCup@Home Education Repo:
 https://github.com/robocupathomeedu/
+- RoboCup@Home Education Youtube:
+https://www.youtube.com/@RoboCupatHomeEDU
 - ROS Wiki:
 http://wiki.ros.org/Documentation
-- RoboCup@Home Education youtube:
-https://www.youtube.com/@RoboCupatHomeEDU
+- AAST-RIC Team Description [Paper](https://github.com/dinaashraf20003/RoboCup-Home-2022/files/11415563/Paper.pdf)
+
