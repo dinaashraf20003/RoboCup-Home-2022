@@ -1,4 +1,4 @@
-# RC_at_Home_Edu_2022
+# RoboCup@Home_Education_2022
 RoboCup@Home Educational Workshop and Challenge Bangkok, Thailand 2022  
 
 ### About Robocup@Home
@@ -35,6 +35,8 @@ challenges, which are later integrated together to carry out the task. <br />
 - ROS Melodic
 - TurtleBot2
 - Robot Model in Gazebo
+- python
+- C++
 - OpenCV
 - Yolo V3
 - OpenPose
@@ -53,5 +55,14 @@ challenges, which are later integrated together to carry out the task. <br />
 - Carry My Luggage
 - Find My Mates
 - Receptionist
+- Product Demo (Presentation) 
+
+
+https://user-images.githubusercontent.com/73821958/236690987-12c722c0-ddeb-4494-a58b-d97ceed6c77e.mp4
+
+
+
+
+Watch full video at: https://youtu.be/Gth8iXjAkwc
 
 
