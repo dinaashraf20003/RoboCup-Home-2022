@@ -65,4 +65,10 @@ https://user-images.githubusercontent.com/73821958/236690987-12c722c0-ddeb-4494-
 
 Watch full video at: https://youtu.be/Gth8iXjAkwc
 
-
+# Resources 
+- RoboCup@Home Education Repo:
+https://github.com/robocupathomeedu/
+- ROS Wiki:
+http://wiki.ros.org/Documentation
+- RoboCup@Home Education youtube:
+https://www.youtube.com/@RoboCupatHomeEDU
