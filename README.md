@@ -19,7 +19,6 @@ RoboCupJunior and other robotics competitions multiple times and have won severa
 - [Awards](https://github.com/dinaashraf20003/RC_at_Home_Edu_2022/files/11415440/Awards.pdf)
 <div>
   <img src="https://user-images.githubusercontent.com/73821958/236688917-9804f0d6-d329-4429-b195-c845e64adf02.jpeg" alt="CSS" width="450" height="450"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/73821958/236689233-b6f76b67-e66c-4993-9795-a74c5af5ee1b.jpeg" alt="CSS" width="550" height="450"/>&nbsp;
 </div>
 
 # Workshop and Challenge
